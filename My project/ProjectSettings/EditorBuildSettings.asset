@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HW Arena.unity
+    guid: 5340ab2e8c70a3c4a8fafb69cc2e5d13
   m_configObjects: {}
